@@ -4,6 +4,8 @@
 
 # Flority
 - [Main Features](./flority/features.md)
+ 
+---
 
 # greenhouse.
 - [Main Features](./greenhouse/features.md)
