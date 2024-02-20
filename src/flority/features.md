@@ -9,8 +9,9 @@ Flority is supposed to be used in the field to collect actual tamper proof groun
 It will not allow to geotag or upload any previously captured images from your phone Gallery by design. 
 
 ## Installation
-On your Android phone, scan this QR code or open this link and download and install Flority.
-It will ask to  
+On your Android phone, scan this QR code or open this link (available soon) and download, install and Open Flority. 
+It will prompt several warning messages.  ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/2ab90bdd-5784-4b5a-bb89-90af16760263)
+
 ## Compatibility 
 ## Log in and User Account
 ## Centralized Remote User Configuration
