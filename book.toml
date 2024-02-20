@@ -1,0 +1,6 @@
+[book]
+authors = ["MaxGietl"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Flority & greenhouse. Documentation"
