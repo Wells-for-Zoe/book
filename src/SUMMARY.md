@@ -13,7 +13,7 @@
 - [Remote Configuration](./flority/Remote_Configuration.md)
 - [Training Mode](./flority/Training_Mode.md)
 - [Updating Flority App](./flority/Updating_Flority_App.md)
-- [Where are photos stored on the device?](./flority/Where_are_photos_stored_on_the_device?.md)
+- [Where are photos stored on the device?](./flority/Where_are_photos_stored_on_the_device.md)
 - [Automatic Upload = OFF](./flority/Automatic_Upload_=_OFF.md)
 - [Automatic Upload = ON](./flority/Automatic_Upload_=_ON.md)
 - [GPS-Polygons](./flority/GPS-Polygons.md)
