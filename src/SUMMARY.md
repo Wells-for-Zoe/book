@@ -13,7 +13,7 @@
 - [Automatic Upload](./flority/Automatic_Upload.md)
 - [GPS-Polygons](./flority/GPS-Polygons.md)
 - [Gallery Functionality (optional)](./flority/Gallery_Functionality_(optional).md)
-- [Forms](./flority/forms.md)
+- [Forms](./flority/Forms.md)
 - [Tags](./flority/tags.md)
 
 
