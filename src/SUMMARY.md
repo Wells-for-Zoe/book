@@ -3,7 +3,7 @@
 - [Introduction](./introduction_and_features.md)
 
 # Flority
-- [Main Features](./flority/features.md)
+- [Main Features](./flority/Main_Features_Flority.md)
 - [Installation and Update](./flority/Installation.md)
 - [Login and User Account](./flority/Login_and_User_Account.md)
 - [General Information on Collection Logic](./flority/General_Information_on_Collection_Logic.md)
