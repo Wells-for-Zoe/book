@@ -13,7 +13,7 @@ WARNING: If a user captures a photo and uploads it immediately then Administrato
 There are several reasons why it can be helpful to deactivate Automatic Upload, see chapter 
 
 
-## Automatic Upload = OFF:
+## Automatic Upload = OFF
 Deactivating the Automatic Upload can have the following benefits:
 
 * You do not want your Project Administrators to be able to track your live location? Just upload all photos from the field at once in the evening when in a safe place.
