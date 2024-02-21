@@ -14,7 +14,7 @@
 - [GPS-Polygons](./flority/GPS-Polygons.md)
 - [Gallery Functionality (optional)](./flority/Gallery_Functionality_(optional).md)
 - [Forms](./flority/Forms.md)
-- [Tags](./flority/tags.md)
+- [Tags](./flority/Tags.md)
 
 
  
