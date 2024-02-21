@@ -8,10 +8,11 @@ The camera will be deactivated to avoid having GPS-Photos showing up at the wron
 ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/1149bef7-383c-4d6a-b872-c7e3c8615d86)
 
 
-
 ## Documenting work in a daily photostream
 
-Flority can be used to document daily work in a nursery, at site preparation as well as documenting any planting acitivities. Being able to gather hundreds of photos dispersed throughout a landscape gives a clear indication where work is happening and it can improve the project significantly if images are analyzed by experienced ecologists. 
+Flority can be used to document daily work in a nursery, at site preparation as well as documenting any planting acitivities and #tags can be set in camera during the capture of a photo so that different activities can be easily categorized and separated on the map in greenhouse. 
+
+Being able to gather hundreds of photos dispersed throughout a landscape gives a clear indication where work is happening and it can improve the project significantly if images are analyzed by experienced ecologists. 
 
 ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/b900204b-694b-4680-9f51-e20b052c8fde)
 
