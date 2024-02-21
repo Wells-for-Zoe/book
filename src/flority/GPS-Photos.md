@@ -17,7 +17,7 @@ Flority can be used to document daily work in a nursery, at site preparation as 
 
 
 If one has individual geotagged sample images of trees planted it can help to determine how accurately GPS-Polygons are delinated or if accidentally an area has been missed or left out by accident. Knowing where Landscape Restoration work is happening is of course the first step in a tedious analysis of the impact on landscape and community.
-
+Following is an example where one can see an area being left out in the polygon allowing a drone map to be expanded above this area, field staff to be sent back to re-record the polygon. 
 
 ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/ea6cde94-6c20-44cf-b832-174d52b55d00)
 
