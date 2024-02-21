@@ -2,12 +2,21 @@
 The Gallery within Flority App is only available if Automatic Upload = OFF. Images can be viewn near full screen by touching the double headed arrow for a brief moment. 
 
 
+![image](https://github.com/Wells-for-Zoe/book/assets/97762115/0ea30266-b4d0-4e3f-86ea-60a052954caa)
+
+
 ### Review and Delete Images
 Multiple images can be selected and deleted. This function can help inexperienced users to remove seemingly identical duplicates to avoid clogging the system with multiple near-identical datapoints. Deleting near-identical duplicates, blurry, incomplete or unwanted photos will save data on user-side and is thereby highly recommended.
 
 
+![image](https://github.com/Wells-for-Zoe/book/assets/97762115/01761c4b-d550-4750-905c-a006f6819e72)
+
+
 ### Tag Images
 Should a user accidentally have used the wrong tag then it is possible on page two of the Flority Gallery to select multiple images and change their tag.
+
+![image](https://github.com/Wells-for-Zoe/book/assets/97762115/9b9bb9e9-a1cf-4afd-b5e8-dd57e6f4a4a1)
+
 
 
 ### Edit Forms
