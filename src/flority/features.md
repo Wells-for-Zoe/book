@@ -12,6 +12,8 @@ It will not allow to geotag or upload any previously captured images from your p
 On your Android phone, scan this QR code or open this link (available soon) and download, install and Open Flority. 
 It will prompt several warning messages. Always select the red circled Answer ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/2ab90bdd-5784-4b5a-bb89-90af16760263) ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/25e3f4bb-083c-4ace-93f7-b315fa2d08b1) ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/c155dc36-de19-45e7-a3c6-8544259dce97)
 
+## Updating the App
+To ensure a smooth App update procedure usually a warning will show that in e.g. 7 days an update will be required to keep uploading data to greenhouse. Should one not be able to update the App (e.g. when offline in the field), then it will still be possible to capture photos and data in the field but upload will be deactivated. Once back in an area with network please simply install the new version without removing the current version. All your data will not be lost during this process and after updating you will be able to upload previously captured data to greenhouse. 
 
 
 ## Compatibility 
@@ -89,7 +91,7 @@ Any data captured will accumulate on your phone and not be deleted from the inte
 ## Gallery Functionality (optional)
 The Gallery within Flority App is only available if Automatic Upload = OFF. Images can be viewn near full screen by touching the double headed arrow for a brief moment. 
 
-### Delete Images
+### Review and Delete Images
 Multiple images can be selected and deleted. This function can help inexperienced users to remove seemingly identical duplicates to avoid clogging the system with multiple near-identical datapoints. Deleting near-identical duplicates, blurry, incomplete or unwanted photos will save data on user-side and is thereby highly recommended.
 
 ### Tag Images
@@ -100,19 +102,13 @@ Should a comment or a form be associated and attached to an image then the form 
 * Some form answers can not be given at the specific moment maybe due to a local expert not being on site
 * In bad weather conditions it can be helpful to postpone tedious comment writing to a place where there is no rain/wind or strong sunshine
 
-#### Optional 
+* Optional = White Icon
 If all form answers are optional then the Form Icon is white and information can be given but also an image itself could be submitted without any additional attributes given.
 
 
-#### Mandatory
+* Mandatory = Red Icon
 If at least one form answer is mandatory then the form icon is red and Information must be entered before the corresponding image or Polygon can be uploaded or be submitted for upload.
 
 ### Confirm and Upload
-### Change #tags
+Last step in the Gallery mode is to confirm the current selection and to confirm for Upload. 
 
-
-
-For example:
-- Taking Photos
-- Uploading Photos
-- Filling out Forms
