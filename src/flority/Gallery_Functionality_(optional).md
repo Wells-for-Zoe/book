@@ -13,7 +13,7 @@ Multiple images can be selected and deleted. This function can help inexperience
 
 
 ### Tag Images
-Should a user accidentally have used the wrong tag then it is possible on page two of the Flority Gallery to select multiple images and change their tag.
+Should a user accidentally have used the wrong tag then it is possible on page two of the Flority Gallery to select multiple images to change their tag.
 
 ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/9b9bb9e9-a1cf-4afd-b5e8-dd57e6f4a4a1)
 
@@ -23,6 +23,10 @@ Should a user accidentally have used the wrong tag then it is possible on page t
 Should a comment or a form be associated and attached to an image then the form details can be altered at a later stage should the Automatic Upload be off. This can be helpful in the following scenarios:
 * Some form answers can not be given at the specific moment maybe due to a local expert not being on site
 * In bad weather conditions it can be helpful to postpone tedious comment writing to a place where there is no rain/wind or strong sunshine
+
+
+There are two different icons for Forms:
+![image](https://github.com/Wells-for-Zoe/book/assets/97762115/8be7b4ac-38bf-421a-be51-37ab5246871a)
 
 * Optional = White Icon
 If all form answers are optional then the Form Icon is white and information can be given but also an image itself could be submitted without any additional attributes given.
