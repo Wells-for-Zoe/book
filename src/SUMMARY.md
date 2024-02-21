@@ -9,7 +9,6 @@
 - [General Information on Collection Logic](./flority/General_Information_on_Collection_Logic.md)
 - [Geospatial Accuracy](./flority/Geospatial_Accuracy.md)
 - [Training Mode](./flority/Training_Mode.md)
-- [Updating Flority App](./flority/Updating_Flority_App.md)
 - [Where are photos stored on the device?](./flority/Where_are_photos_stored_on_the_device.md)
 - [Automatic Upload](./flority/Automatic_Upload.md)
 - [GPS-Polygons](./flority/GPS-Polygons.md)
