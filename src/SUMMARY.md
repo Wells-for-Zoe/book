@@ -1,6 +1,6 @@
 # Summary
 
-- [Introduction](./introduction.md)
+- [Introduction](./introduction_and_features.md)
 
 # Flority
 - [Main Features](./flority/features.md)
