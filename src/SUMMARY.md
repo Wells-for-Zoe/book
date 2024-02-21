@@ -4,6 +4,7 @@
 
 # Flority
 - [Main Features](./flority/features.md)
+- [Installation](./flority/Installation.md)
  
 ---
 
