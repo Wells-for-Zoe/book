@@ -10,7 +10,8 @@ It will not allow to geotag or upload any previously captured images from your p
 
 ## Installation
 On your Android phone, scan this QR code or open this link (available soon) and download, install and Open Flority. 
-It will prompt several warning messages. Always select the red circled Answer ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/2ab90bdd-5784-4b5a-bb89-90af16760263) ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/25e3f4bb-083c-4ace-93f7-b315fa2d08b1) ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/c155dc36-de19-45e7-a3c6-8544259dce97)
+It will prompt several warning messages. Always select the red circled Answer ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/4ad92ba5-1361-46fb-ac03-b5fad084541f)
+
 
 ## Updating the App
 To ensure a smooth App update procedure usually a warning will show that in e.g. 7 days an update will be required to keep uploading data to greenhouse. Should one not be able to update the App (e.g. when offline in the field), then it will still be possible to capture photos and data in the field but upload will be deactivated. Once back in an area with network please simply install the new version without removing the current version. All your data will not be lost during this process and after updating you will be able to upload previously captured data to greenhouse. 
@@ -20,8 +21,8 @@ To ensure a smooth App update procedure usually a warning will show that in e.g.
 Flority App currently is only compatible with Android devices
 
 ## Log in and User Account
-The User Account for greenhouse. and Flority is identical as it is technically one single User Account used on both the web-Interface greenhouse. and the mobile App Flority. As soon as your Administrator invites you to the Platform you are required to change your Password. Please note that simple passwords like ABC12345 will not work and special case, number and capital and small letters must be used. Enter your Username and Password (both are case sensitive) ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/6ed9dc8f-fe1c-447d-930f-b2319dc2bbc7)
-![image](https://github.com/Wells-for-Zoe/book/assets/97762115/586f1fbf-ada4-4947-a8ed-bbc637dd6b90) ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/6dce5ce2-4ed4-4e97-a739-c481e2838897)
+The User Account for greenhouse. and Flority is identical as it is technically one single User Account used on both the web-Interface greenhouse. and the mobile App Flority. As soon as your Administrator invites you to the Platform you are required to change your Password. Please note that simple passwords like ABC12345 will not work and special case, number and capital and small letters must be used. Enter your Username and Password (both are case sensitive) ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/fa42cea1-59e2-4c70-ba98-ef91e36ebc78)
+
 
 ## I don't have an Account
 If you do not have an Account or your Account Details are wrong you should contact your respective Administrator/Superior who can create an Account for you if your organization is already registered in the system. If not reach out to info@flority.app. 
