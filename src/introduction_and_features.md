@@ -1,4 +1,5 @@
-# Introduction
+![image](https://github.com/Wells-for-Zoe/book/assets/97762115/13b86205-512c-4b85-8c78-cadb13bcf2bb)
+
 
 The greenhouse.Flority System was created to empower communities to increase transparency of Nature Based Landscape Restoration Projects in rural Africa. 
 
