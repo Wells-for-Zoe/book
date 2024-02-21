@@ -9,7 +9,7 @@ The greenhouse.Flority System was created to empower communities to increase tra
 * Ownership: Review, edit, hide, delete, share and download your data with customizable user privileges.
 
 
-## Main Possible Features of Flority
+### Main Features of Flority
 * Highly accurate GPS-Photos with an enforced custom accuracy setting (remote configuration).
 * GPS-Polygon recording with each vertice accuracy being recorded as well.
 * App configuration is fully remote and configuration refreshes after app relaunch or any uploads.
