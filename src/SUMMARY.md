@@ -11,6 +11,7 @@
 - [Training Mode](./flority/Training_Mode.md)
 - [Where are photos stored on the device?](./flority/Where_are_photos_stored_on_the_device.md)
 - [Automatic Upload](./flority/Automatic_Upload.md)
+- [GPS-Photos](./flority/GPS-Photos.md)
 - [GPS-Polygons](./flority/GPS-Polygons.md)
 - [GPS-Centerpoints](./flority/GPS-Centerpoints.md)
 - [Gallery Functionality (optional)](./flority/Gallery_Functionality_(optional).md)
