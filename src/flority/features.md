@@ -8,6 +8,7 @@ Custom forms allow the collection of any additional attributes, comments and sur
 Flority is supposed to be used in the field to collect actual tamper proof ground truth data. 
 It will not allow to geotag or upload any previously captured images from your phone Gallery by design. 
 
+
 ## Installation
 On your Android phone, scan this QR code or open this link (available soon) and download, install and Open Flority. 
 It will prompt several warning messages. Always select the red circled Answer ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/4ad92ba5-1361-46fb-ac03-b5fad084541f)
@@ -19,6 +20,7 @@ To ensure a smooth App update procedure usually a warning will show that in e.g.
 
 ## Compatibility 
 Flority App currently is only compatible with Android devices
+
 
 ## Log in and User Account
 The User Account for greenhouse. and Flority is identical as it is technically one single User Account used on both the web-Interface greenhouse. and the mobile App Flority. As soon as your Administrator invites you to the Platform you are required to change your Password. Please note that simple passwords like ABC12345 will not work and special case, number and capital and small letters must be used. Enter your Username and Password (both are case sensitive) ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/fa42cea1-59e2-4c70-ba98-ef91e36ebc78)
@@ -41,8 +43,10 @@ Flority App currently has no settings that can be customized in App by the user.
 * daily upload limits
 * remote App deactivation
 
+
 ## Photo storage
 Flority App creates two identical copies of each photo captured: One copy is stored in your regular phone gallery and you have full access to it, the other copy is hidden in a cryptographically sealed file location within Flority App and can not be manually deleted. This is necessary to ensure that submitted photos are always original and unaltered. 
+
 
 ## Training Mode (optionally available)
 ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/5e73c7b4-a316-4066-a9ca-e14304a8007e)
@@ -56,18 +60,17 @@ If your device does not yet have the required geopositional accuracy (which is d
 Android offers a minimum setting of 5m.
 ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/185e0fde-4c74-48e2-9869-7ad82e143d74)
 
-## tags
 
+## tags
 Tags help planting organizations to categorize images and data in their system. If you use our system to document not only planting activities but also things like community gatherings, site preparation then it can help to use these tags so while it is not mandatory we highly recommend it. Some tags will have Forms connected with it so for example the tag "Disturbance (Fire/Flood...) will have a Form with additional options to describe the situation as default.
 ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/bb90be63-9cad-482a-a6b2-223bc4beecb1)
 
 
 ## forms
-
 A form is usually co-designed by the Superior Project Developer and highly standardized to fit the criteria the project documentation protocol requires. Forms can include additional Options to add GPS-Photos (e.g. for Accounting Documentation it is possible and actually feasible to use Flority) as well as any sort of usual Form Options be it Multiple Choice, Numbers or written answers.  
 
-## Automatic Upload = ON
 
+## Automatic Upload = ON
 During Field Data Collection the setting: Automatic Upload = ON automatically uploads all data captured should cellular data network be available. This can be useful for bulk-shooting of planting proof (e.g. seedlings planted along a road) and it helps to activate this feature to very inexperienced users to make sure that their field data will successfully submitted. 
 Should network fail then it will automatically retried.
 
@@ -84,6 +87,7 @@ WARNING: If a user captures a photo and uploads it immediately then Administrato
 * Your phone battery is weak or has a low charge? Deactivating Auto Upload will save battery as no data will be shared via the App.
 * With automatic upload it is not possible to review, delete or edit your photos before they are uploaded. Deactivating Automatic Upload gives you access to Gallery Functions.
 
+
 ## Automatic Upload = OFF:
 Deactivating the Automatic Upload can have some benefits but it bears the risk that inexperienced users simply forget to submit photos. However it allows (optional setting) to access the internal Flority Gallery Functionality where photos can be reviewed, deleted, tags be edited and forms answered.
 Any data captured will accumulate on your phone and not be deleted from the internal Flority storage, so if you were to never upload photos but keep capturing photos your storage might eventually run low. 
@@ -92,11 +96,14 @@ Any data captured will accumulate on your phone and not be deleted from the inte
 ## Gallery Functionality (optional)
 The Gallery within Flority App is only available if Automatic Upload = OFF. Images can be viewn near full screen by touching the double headed arrow for a brief moment. 
 
+
 ### Review and Delete Images
 Multiple images can be selected and deleted. This function can help inexperienced users to remove seemingly identical duplicates to avoid clogging the system with multiple near-identical datapoints. Deleting near-identical duplicates, blurry, incomplete or unwanted photos will save data on user-side and is thereby highly recommended.
 
+
 ### Tag Images
 Should a user accidentally have used the wrong tag then it is possible on page two of the Flority Gallery to select multiple images and change their tag.
+
 
 ### Edit Forms
 Should a comment or a form be associated and attached to an image then the form details can be altered at a later stage should the Automatic Upload be off. This can be helpful in the following scenarios:
@@ -112,4 +119,18 @@ If at least one form answer is mandatory then the form icon is red and Informati
 
 ### Confirm and Upload
 Last step in the Gallery mode is to confirm the current selection and to confirm for Upload. 
+
+
+# GPS-Polygons
+## Classic Mode
+GPS-Polygons are recorded by walking around the area of interest (e.g. restoration site) and taking GPS-Photos, ideally looking inwards, at bends to demarcate the area. Depending on boundary-complexity of the site, less or more photos are sufficient during this process (see example) 
+![image](https://github.com/Wells-for-Zoe/book/assets/97762115/c9d806ba-57e2-4f1f-a4ef-e2c9a76baa3e)
+
+As the App can not know when Polygonrecording is finished, the very last step is to select the #polygon-end Option and capture one final photo. ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/8d3d901e-f3b5-4bd2-ae67-45674809dd55)
+
+![image](https://github.com/Wells-for-Zoe/book/assets/97762115/303924ce-4635-43f6-9f79-bcc5a14abe50)
+This triggers to open a form to add additional attributes, in the custom Form for TerraFund for AFR100, the following additional attributes can be added with some marked mandatory. ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/bce20b80-b992-4dd5-8acd-38961eb874bc)
+
+
+## Automatic Mode
 
