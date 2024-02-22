@@ -1,8 +1,6 @@
 # Summary
 
 - [Introduction](./introduction_and_features.md)
-
-# Flority
 - [Main Features](./flority/Main_Features_Flority.md)
 - [Installation and Update](./flority/Installation.md)
 - [Login and User Account](./flority/Login_and_User_Account.md)
