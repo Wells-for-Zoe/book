@@ -1,7 +1,11 @@
 ## Training Mode (optionally available)
 
 
-A special Training Mode can be activated and it is - as the name suggests - only meant for purely Training data. IMPORTANT: TRAINING DATA WILL AUTOMATICALLY BE DELETED FROM THE SYSTEM AFTER 14 DAYS.
+A special Training Mode can be activated and it is - as the name suggests - only meant for purely Training data. 
+
+IMPORTANT: TRAINING DATA WILL AUTOMATICALLY BE DELETED FROM THE SYSTEM AFTER 14 DAYS.
+
+
 We know that people like the system so much that they demonstrate it to others all the time and suddenly random snapshots appear in the system. Please remind users to use training mode in these cases. It will always deactivate automatically after going back to the Main Overview Page to not use it accidentally. 
 
 
