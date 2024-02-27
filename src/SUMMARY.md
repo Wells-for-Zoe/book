@@ -15,6 +15,7 @@
 - [Gallery Functionality (optional)](./flority/Gallery_Functionality_(optional).md)
 - [Forms](./flority/Forms.md)
 - [Tags](./flority/Tags.md)
+- [Project Selector](./flority/ProjectSelector.md)
 
 
  
