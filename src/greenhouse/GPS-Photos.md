@@ -12,3 +12,8 @@ Using the right and left arrow key you can display the previous or next photo. S
 
 ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/1a7a6c8a-eba6-46e0-ae4e-b9c416416dd8)
 
+If a user uploads new photos the info will be displayed on top of the thumbnails with a Refresh button.
+
+![image](https://github.com/Wells-for-Zoe/book/assets/97762115/962e42f4-489a-4973-956e-39c8dbb0c5bf)
+
+
