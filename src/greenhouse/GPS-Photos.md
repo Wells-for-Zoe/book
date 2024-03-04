@@ -1,8 +1,6 @@
 ## GPS-Photos
 
-All photos captured with Flority App are directly uploaded to greenhouse and are displayed in a Gallery and Map.
-It is accessible using the same Login Information as with Flority App so each user has full control and insight into their captured data. It is not optimized for phone so when using on a phone it is highly recommended to enable Desktop Mode. There will be some improvements over time but it is intended to be used on Desktop as of now. 
-
+All photos captured with Flority App are directly uploaded to greenhouse and are displayed in the Gallery and Map.
 
 ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/68600cee-a5d8-4e84-9987-e8a15180a61f)
 
