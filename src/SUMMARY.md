@@ -22,5 +22,8 @@
 ---
 
 # greenhouse.
-- [Main Features](./greenhouse/features.md)
-  - [User Management](./greenhouse/user_management.md)
+- [Introduction](./greenhouse/Introduction.md)
+- [GPS-Photos](./greenhouse/GPS-Photos.md)
+- [Map](./greenhouse/Map.md)
+- [Editing Polygons](./greenhouse/Polygons.md)
+- [User Management](./greenhouse/user_management.md)
