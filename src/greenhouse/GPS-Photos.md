@@ -8,7 +8,7 @@ If you double click on an image in the GPS-Photos Tab then the respective image 
 
 ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/2dd67b3c-9d7b-4a3e-85dc-7cbf69960991)
 
-Using the right and left arrow key you can display the previous or next photo. Should you want to download individual images then simply right click and Select "Save Image as..."
+Using the right and left arrow key you can display the previous or next photo. Should you want to download individual images then simply right click and Select "Save Image as..." The full geotag will remain embedded with the file.
 
 ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/1a7a6c8a-eba6-46e0-ae4e-b9c416416dd8)
 
