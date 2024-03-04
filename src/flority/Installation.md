@@ -1,7 +1,8 @@
 ## Installation
 
 
-On your Android phone, scan this QR code or open this link (available soon) and download, install and Open Flority. 
+On your Android phone, scan this QR code ![image](https://github.com/Wells-for-Zoe/book/assets/97762115/03134839-dc6b-4fa6-9f8f-f9676c6d9fa2)
+or open https://play.google.com/store/apps/details?id=org.wellsforzoe.eyes&gl=DE and download, install and Open Flority. 
 It will prompt several warning messages. Always select the red circled answer 
 
 
