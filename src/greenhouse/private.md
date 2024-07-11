@@ -7,4 +7,8 @@ If a photo was captured in private mode in Flority it will automatically show up
 Please note: If a photo is marked as private it can still be shared (if simultaenously highlighted) with supporting platforms (e.g. TerraMatch), and it will retain its private tag there as well.
 
 Public photo:
+![image](https://github.com/Wells-for-Zoe/book/assets/97762115/c96f1e51-00d2-419d-81b9-7fa96ab8310e)
+
+Private photo:
+![image](https://github.com/Wells-for-Zoe/book/assets/97762115/2ac97f91-14d5-4fa8-9a3d-11f67e64245c)
 
