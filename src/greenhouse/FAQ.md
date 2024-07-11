@@ -15,7 +15,7 @@
 
 4. If a geometry of a GPS-Polygon is updated in a connected platform (e.g. TerraMatch) that has originally been pushed to this platform from greenhouse, what happens?
 
-    --> Nothing happens, _unless_ the GPS-Polygon gets pushed to the respective connected platform again.
+    --> It is marked in greenhouse. as updated and it is from then on impossible to push it to the connected platform again in order not to create unwanted changes.
 
 6. If the geometry of a GPS-Polygon was updated and then pushed _again_ to a site on the connected platform, what happens?
 
