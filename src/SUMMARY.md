@@ -28,3 +28,4 @@
 - [Map](./greenhouse/Map.md)
 - [Editing Polygons](./greenhouse/Polygons.md)
 - [User Management](./greenhouse/user_management.md)
+- [FAQ](./greenhouse/FAQ.md)
