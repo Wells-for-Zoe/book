@@ -26,6 +26,7 @@
 - [GPS-Photos](./greenhouse/GPS-Photos.md)
 - [GPS-Photos Highlighting](./greenhouse/highlight.md)
 - [GPS-Photos Private](./greenhouse/private.md)
+- [Geofence for Exporting Data](./greenhouse/geofence.md)
 - [Map](./greenhouse/Map.md)
 - [Editing Polygons](./greenhouse/Polygons.md)
 - [User Management](./greenhouse/user_management.md)
