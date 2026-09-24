@@ -1,6 +1,7 @@
-## GPS-Photos
+## Photos-Tab
 
-All photos captured with Flority App are directly uploaded to greenhouse and are displayed in the Gallery and Map.
+
+Photos captured with Flority App are directly uploaded to greenhouse and are displayed in the Gallery and on the Map automatically. 360° Panoramas can also be uploaded in the Panorama-Tab. 
 
 <img width="1701" height="909" alt="image" src="https://github.com/user-attachments/assets/f7fb25f9-75e3-452e-aab4-1153666975f4" />
 
@@ -16,8 +17,6 @@ You can also multi-select multiple different images and download original files 
 <img width="2919" height="1562" alt="image" src="https://github.com/user-attachments/assets/d3ad95eb-a577-4669-822b-23eb222efb49" />
 
 
-If a user uploads new photos the info will be displayed on top of the thumbnails with a Refresh button.
-
-![image](https://github.com/Wells-for-Zoe/book/assets/97762115/962e42f4-489a-4973-956e-39c8dbb0c5bf)
+Gallery will update frequently when new photos are added. 
 
 
