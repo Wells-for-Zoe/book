@@ -1,10 +1,16 @@
 ## Photos-Tab
 
-
-Photos captured with Flority App are directly uploaded to greenhouse and are displayed in the Gallery and on the Map automatically. 360° Panoramas can also be uploaded in the Panorama-Tab. 
-
+There are two different media-types that can be displayed:
+### - GPS-Photos captured with Flority App
 <img width="1701" height="909" alt="image" src="https://github.com/user-attachments/assets/f7fb25f9-75e3-452e-aab4-1153666975f4" />
 
+### - 360° Panoramas 
+
+<img width="1700" height="907" alt="image" src="https://github.com/user-attachments/assets/8b25fd73-e8a7-4ad6-8db3-bac0ec4f3bab" />
+
+<br>
+
+Photos captured with Flority App are directly uploaded to greenhouse and are displayed in the Gallery and on the Map automatically. 360° Panoramas are added via "Add Media-Tab".
 
 If you double click on an image in the GPS-Photos Tab then the respective image will be displayed enlarged with the respective Attributes - capture date, time, user as well as the respective #tag.
 
@@ -15,7 +21,6 @@ Using the right and left arrow key you can display the previous or next photo. S
 
 You can also multi-select multiple different images and download original files as zip-file (Use Shift & Click / Cmd/Ctrl Keys).
 <img width="2919" height="1562" alt="image" src="https://github.com/user-attachments/assets/d3ad95eb-a577-4669-822b-23eb222efb49" />
-
 
 Gallery will update frequently when new photos are added. 
 
